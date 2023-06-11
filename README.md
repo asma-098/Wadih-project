@@ -1,2 +1,2 @@
-# Wadih-projec
+# Wadih-project
 wadih
